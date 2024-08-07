@@ -1,0 +1,27 @@
+#information {
+  display: flex;
+  flex-direction: column;
+  height: 12.5rem;
+  align-items: center;
+  width: 100%;
+}
+#avt {
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  width: 5rem;
+}
+h3{
+  color: hsl(0, 0%, 100%);
+  margin-bottom: 0.5rem;
+}
+#address {
+  color: hsl(75, 94%, 57%);
+  font-weight: bold;
+  font-size: 10px;
+}
+h5{
+  color: hsl(0, 0%, 100%);
+}
